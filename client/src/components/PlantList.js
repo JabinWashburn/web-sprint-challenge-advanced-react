@@ -6,7 +6,7 @@ export default class PlantList extends Component {
   constructor(props){
     super(props)
     this.state = {
-      plats: []
+      plants: []
     }
   }
     componentDidMount(){
